@@ -9,7 +9,7 @@
     "test-watch": "nodemon --exec 'npm test'"
   },
   "engines": {
-    "node": "8.10.0"
+    "node": "20.17.0"
   },
   "repository": {
     "type": "git",
